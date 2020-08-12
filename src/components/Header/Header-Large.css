@@ -1,0 +1,40 @@
+@media only screen and (min-width: 1024px) {
+  .Logo {
+    float: left;
+    margin-left: 25px;
+    width: 150px;
+    height: auto;
+  }
+
+  .Desktop-Menu {
+    margin-top: 15px;
+  }
+
+  .Desktop-LoggedIn {
+    float: right;
+    margin-right: 25px;
+    color: red;
+    text-decoration: none;
+  }
+
+  .Desktop-LoggedIn span {
+    margin-right: 25px;
+    color: #000;
+  }
+
+  nav a {
+    float: right;
+    margin-right: 25px;
+    color: red;
+    text-decoration: none;
+    font-size: x-large;
+  }
+
+  .Open-Menu {
+    display: none;
+  }
+
+  .mobileMenu {
+    display: none;
+  }
+}

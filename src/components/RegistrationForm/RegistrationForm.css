@@ -1,0 +1,35 @@
+.Form-Section {
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+input {
+  border-radius: 10px;
+  padding: 5px;
+}
+
+label {
+  margin-right: 15px;
+}
+
+.Returning-User {
+  color: red;
+  text-decoration: none;
+  float: right;
+}
+
+.Signup-Submit {
+  float: left;
+  margin: 0;
+}
+
+.Btn-Row-Register {
+  margin: auto auto;
+  margin-top: 30px;
+}
+
+.error-message {
+  color: red;
+}
